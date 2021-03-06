@@ -1,4 +1,4 @@
-# UCEMA - Algorithms & Data Structure Course
+# UCEMA - Algorithms & Data Structures Course
 
 Algorithms and Data Structure Course taken at [Universidad del CEMA](https://ucema.edu.ar/) on the second semester 2020. This repository is for academic and professional purposes only, no exams or specific solutions are available.
 
