@@ -1,0 +1,10 @@
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\bin\Debug\Balance de Signos.exe.config
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\bin\Debug\Balance de Signos.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\bin\Debug\Balance de Signos.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance de Signos.csprojAssemblyReference.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance_de_Signos.Form3.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance_de_Signos.Properties.Resources.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance de Signos.csproj.GenerateResource.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance de Signos.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance de Signos.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 6 - Pilas\Pilas-Colas\Balance de Signos\obj\Debug\Balance de Signos.pdb
