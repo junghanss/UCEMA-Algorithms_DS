@@ -1,0 +1,10 @@
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.Form1.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.Properties.Resources.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.csproj.GenerateResource.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\bin\Debug\Subprocesamiento.exe.config
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\bin\Debug\Subprocesamiento.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\bin\Debug\Subprocesamiento.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\Subprocesamiento\obj\Debug\Subprocesamiento.csprojAssemblyReference.cache
