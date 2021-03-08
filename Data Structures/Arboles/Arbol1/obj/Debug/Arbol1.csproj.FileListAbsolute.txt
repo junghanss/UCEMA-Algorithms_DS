@@ -1,0 +1,60 @@
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\bin\Debug\Arbol1.exe.config
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\bin\Debug\Arbol1.exe
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\bin\Debug\Arbol1.pdb
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.csprojResolveAssemblyReference.cache
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.Form1.resources
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.exe
+Z:\Información\Trabajo\UAI\Docencia\Cátedras\PI\02 Código\Ejemplos\C#\2018\Arbol1\Arbol1\obj\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\bin\Debug\Arbol1.exe.config
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\bin\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\bin\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1B\Unidad_3\Arbol1\obj\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.exe.config
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 LGTI TN 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\bin\Debug\Arbol1.exe.config
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\bin\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\bin\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_3\Arbol1\obj\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.exe.config
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\bin\Debug\Arbol1.pdb
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.exe
+C:\Users\Dario Cardacci\source\repos\Programacion 1\2020\P1 TM 1A\Unidad_3\Arbol1\obj\Debug\Arbol1.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\bin\Debug\Arbol1.exe.config
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\bin\Debug\Arbol1.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\bin\Debug\Arbol1.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.csprojAssemblyReference.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.Form1.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.Properties.Resources.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.GenerateResource.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\2 Código actualizado al 22_10_2020\Unidad_3\Arbol1\obj\Debug\Arbol1.pdb
