@@ -1,0 +1,10 @@
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\bin\Debug\AssembliesReflex.exe.config
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\bin\Debug\AssembliesReflex.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\bin\Debug\AssembliesReflex.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.Form1.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.Properties.Resources.resources
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.csproj.GenerateResource.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.exe
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.pdb
+C:\Users\JUAN\Google Drive\Universidad\UCEMA\Informatica\Algoritmos y Estructura de Datos\3 - Clases y Apuntes\Clase 13-14 - Subproc+Reflection\Reflection\AssembliesReflex\obj\Debug\AssembliesReflex.csprojAssemblyReference.cache
