@@ -21,6 +21,11 @@ Programming Languages and Frameworks:
 * Queues
 * Trees
 
-### Reflexion
+### Reflexion:
+* Assemblies, Modules, Types
+
 ### Threads and Subprocesses
+* ThreadPool, Parallel 
+* Asynchronism
+* .NET BackgroundWorker
 
